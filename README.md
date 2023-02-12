@@ -33,21 +33,45 @@ Helpdesk software for messaging and social customer service.
 - **_Technologies used:_** Python, PyTorch, Pandas, Tornado, BigQuery, AWS, GCP.
 <br><br>
 
-## 📝 Publications
+## 📝 Publications
 
+   2022
+:   **Two-stage Conditional Chest X-ray Radiology Report Generation** in MedNeurIPS 2022, New Orleans, USA.
+  
+    Pablo Messina, **José Cañete**, Denis Parra, Alvaro Soto, Cecilia Besa, Jocelyn Dunstan. [Paper](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/64.pdf), [Repo](https://github.com/PabloMessina/MedVQA/).
+
+   2022
+:   **ALBETO and DistilBETO: Lightweight Spanish Language Models** in LREC 2022, Marseille, France.
+  
+    **José Cañete**, Sebastián Donoso, Felipe Bravo-Marquez, Andrés Carvallo, Vladimir Araujo. [Paper](https://arxiv.org/abs/2204.09145), [Repo](https://github.com/OpenCENIA/lightweight-spanish-language-models).
+
+   2022
+:   **Evaluation Benchmarks for Spanish Sentence Representations** in LREC 2022, Marseille, France.
+  
+    Vladimir Araujo, Andrés Carvallo, Souvik Kundu, **José Cañete**, Marcelo Mendoza, Robert E. Mercer, Felipe Bravo-Marquez, Marie-Francine Moens, Alvaro Soto. [Paper](https://arxiv.org/abs/2204.07571), [Repo](https://github.com/OpenCENIA/Spanish-Sentence-Evaluation).
+
+   2020
+:   **Spanish Pre-trained BERT Model and Evaluation Data** in PML4DC @ ICLR 2020, Addis Ababa, Ethiopia.
+  
+    **José Cañete**, Gabriel Chaperon, Rodrigo Fuentes, Jou-Hui Ho, Hojin Kang and Jorge Perez. [Paper](https://users.dcc.uchile.cl/~jperez/papers/pml4dc2020.pdf), [Repo](https://github.com/dccuchile/beto).
 
   
 ## 🏆 Awards
 
-**Outstanding Student in Research** @ [DCC UChile](https://dcc.uchile.cl) _(2019 - 2020)_ <br>
+**Outstanding Student in Research**<br>
+[DCC UChile](https://dcc.uchile.cl) _(2019 - 2020)_ 
 
-**1st Place** @ [Winter Competitive Programming Camp of Chile]() _(2017)_ <br>
+**1st Place**<br>
+[Winter Competitive Programming Camp of Chile]() _(2017)_
 
-**3rd Place** @ [Chilean Programming Contest]() _(2017)_ <br>
+**3rd Place**<br>
+[Chilean Programming Contest]() _(2017)_
 
-**3rd Place** @ [ACM ICPC Chile]() _(2017)_ <br>
+**3rd Place**<br>
+[ACM ICPC Chile]() _(2017)_
 
-**9th Place and First to Solve** @ [ACM ICPC Chile]() _(2016)_ <br>
+**9th Place and First to Solve**<br>
+[ACM ICPC Chile]() _(2016)_
 
 ## Conferences and Summer Schools
 
