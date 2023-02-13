@@ -30,6 +30,7 @@ Helpdesk software for messaging and social customer service.
 Helpdesk software for messaging and social customer service.
 - Developed, tested, and deployed various NLP-based Machine Learning models into production.
 - Trained models such as BERT and its variants (ALBERT, S-BERT, among others) to understand Spanish informal text messages from social networks.
+- Designed and implemented a robust NLP microservice, featuring sentiment analysis, named-entity recognition, and intent classification, handling over 300,000 messages daily.
 - **_Technologies used:_** Python, PyTorch, Pandas, Tornado, BigQuery, AWS, GCP.
 <br><br>
 
