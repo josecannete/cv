@@ -67,7 +67,7 @@ Helpdesk software for messaging and social customer service.
 **9th Place and First to Solve**<br>
 [ACM ICPC Chile]() _(2016)_
 
-## Conferences and Summer Schools
+## 👨‍🏫 Conferences and Summer Schools
 
 **Language Resources and Evaluation Conference (LREC)**<br>
 Marseille, France _(2022)_
