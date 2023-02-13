@@ -38,10 +38,10 @@ Helpdesk software for messaging and social customer service.
 2022
 :   **Two-stage Conditional Chest X-ray Radiology Report Generation** in MedNeurIPS 2022, New Orleans, USA.
 :   Pablo Messina, **José Cañete**, Denis Parra, Alvaro Soto, Cecilia Besa, Jocelyn Dunstan. [Paper](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/64.pdf), [Repo](https://github.com/PabloMessina/MedVQA/).
-:   
+:   <br>
 :   **ALBETO and DistilBETO: Lightweight Spanish Language Models** in LREC 2022, Marseille, France.
 :   **José Cañete**, Sebastián Donoso, Felipe Bravo-Marquez, Andrés Carvallo, Vladimir Araujo. [Paper](https://arxiv.org/abs/2204.09145), [Repo](https://github.com/OpenCENIA/lightweight-spanish-language-models).
-:   
+:   <br>
 :   **Evaluation Benchmarks for Spanish Sentence Representations** in LREC 2022, Marseille, France.
 :   Vladimir Araujo, Andrés Carvallo, Souvik Kundu, **José Cañete**, Marcelo Mendoza, Robert E. Mercer, Felipe Bravo-Marquez, Marie-Francine Moens, Alvaro Soto. [Paper](https://arxiv.org/abs/2204.07571), [Repo](https://github.com/OpenCENIA/Spanish-Sentence-Evaluation).
 
