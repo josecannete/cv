@@ -91,6 +91,22 @@ Campinas, São Paulo, Brazil _(2017)_
 **Winter Competitive Programming Camp Chile (ICPCCL)**<br>
 Chile _(2015 and 2016)_
 
+## 📌 Extracurricular Activity
+
+**Outreach Assistant** @ [Universidad de Chile](https://ingenieria.uchile.cl/extension) _(Dec 2015 - Dec 2019)_ <br>
+Engineering faculty communications department.
+- Gave talks and tours about engineering and sciences at the faculty to high school students.
+- Organized the ”regions plan” of 2018, in which we visited schools all over Chile giving talks.
+- Co-organized the faculty’s Engineering and Science Fair 2018,the largest outreach event of Universidad de Chile, which had more than 16.000 attendees.
+<br><br>
+
+## ⌨️ Programming
+
+**DevOps**: Docker, GCP, AWS <br>
+**Data**: SQL, Apache Beam, Apache Spark, ElasticSearch, Pandas <br>
+**Machine Learning**: PyTorch, HuggingFace <br>
+**Languages**: Python
+<br><br>
 
 ## 💬 Languages
 
