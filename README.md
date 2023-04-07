@@ -12,6 +12,12 @@ _MSc. in Computer Science student based in Chile 🇨🇱_ <br>
 
 ## 🧑‍💻 Work Experience
 
+**Senior Machine Learning Engineer** @ [Walmart Chile](https://walmartchile.cl/) _(Mar 2023 - now)_ <br>
+AI and Data Exploitation team on Walmart Tech.
+- In charge of deploy ML models into production.
+- **_Technologies used:_** Python, GCP.
+<br><br>
+
 **Machine Learning Engineer** @ [National Center for Artificial Intelligence (CENIA)](https://cenia.cl/) _(Mar 2022 - Jan 2023)_ <br>
 National research and development center of AI of Chile.
 - Conducted research in the AI Medical Imaging group, exploring various pre-training methods using images or multimodal (language-image) techniques, including CLIP, MAE, and Multimodal MAEs. Contributed to a paper published at the MedNeurIPS 2022 workshop.
