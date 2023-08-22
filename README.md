@@ -13,7 +13,7 @@ _MSc. in Computer Science based in Chile 🇨🇱_ <br>
 ## 🧑‍💻 Work Experience
 
 **Senior Machine Learning Engineer** @ [Walmart Chile](https://walmartchile.cl/) _(Mar 2023 - now)_ <br>
-AI and Data Exploitation team on Walmart Tech.
+AI and Data Exploitation team on Walmart Data.
 - MLE for a team of 6 Data Scientist and a Product Owner working on models for the optimization of the Supply Chain.
 - In charge of developing clean, efficient and scalable machine learning pipelines to be served in production environments.
 - Developing systems for the CI/CD/CT of the solutions.
