@@ -14,8 +14,11 @@ _MSc. in Computer Science based in Chile 🇨🇱_ <br>
 
 **Senior Machine Learning Engineer** @ [Walmart Chile](https://walmartchile.cl/) _(Mar 2023 - now)_ <br>
 AI and Data Exploitation team on Walmart Tech.
-- In charge of deploy ML models into production.
-- **_Technologies used:_** Python, GCP.
+- MLE for a team of 6 Data Scientist and a Product Owner working on models for the optimization of the Supply Chain.
+- In charge of developing clean, efficient and scalable machine learning pipelines to be served in production environments.
+- Developing systems for the CI/CD/CT of the solutions.
+- Reviewing and providing feedback of the code of the entire team to improve and assure good software practices across the team.
+- **_Technologies used:_** Python, Kubeflow Pipelines, Vertex AI.
 <br><br>
 
 **Machine Learning Engineer** @ [National Center for Artificial Intelligence (CENIA)](https://cenia.cl/) _(Mar 2022 - Jan 2023)_ <br>
@@ -108,7 +111,7 @@ Engineering faculty communications department.
 
 ## ⌨️ Programming
 
-**DevOps**: Docker, GCP, AWS <br>
+**DevOps**: Docker, GCP, AWS, Kubeflow Pipelines <br>
 **Data**: SQL, Apache Beam, Apache Spark, ElasticSearch, Pandas <br>
 **Machine Learning**: PyTorch, HuggingFace <br>
 **Languages**: Python
