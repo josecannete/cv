@@ -7,7 +7,7 @@ _MSc. in Computer Science based in Chile 🇨🇱_ <br>
 **MSc.** in Computer Science<br>
 [Universidad de Chile](https://www.uchile.cl/) - Santiago, Chile _(2021 - 2023)_
 
-**BSc.** in Computer Science Engineering<br>
+**BSc.** in Computer Science and Engineering<br>
 [Universidad de Chile](https://www.uchile.cl/) - Santiago, Chile _(2014 - 2021)_
 
 ## 🧑‍💻 Work Experience
