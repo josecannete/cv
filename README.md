@@ -1,11 +1,11 @@
 # José Cañete
 
-_MSc. in Computer Science student based in Chile 🇨🇱_ <br>
+_MSc. in Computer Science based in Chile 🇨🇱_ <br>
 
 ## 👨‍🎓 Education
 
 **MSc.** in Computer Science<br>
-[Universidad de Chile](https://www.uchile.cl/) - Santiago, Chile _(2021 - 2023 (expected))_
+[Universidad de Chile](https://www.uchile.cl/) - Santiago, Chile _(2021 - 2023)_
 
 **BSc.** in Computer Science Engineering<br>
 [Universidad de Chile](https://www.uchile.cl/) - Santiago, Chile _(2014 - 2021)_
