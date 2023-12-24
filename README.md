@@ -4,7 +4,7 @@ _MSc. in Computer Science based in Chile 🇨🇱_ <br>
 
 ## 👨‍🎓 Education
 
-**MSc.** in Computer Science<br> - [Thesis](https://repositorio.uchile.cl/handle/2250/196742)
+**MSc.** in Computer Science - [Thesis](https://repositorio.uchile.cl/handle/2250/196742)<br> 
 [Universidad de Chile](https://www.uchile.cl/) - Santiago, Chile _(2021 - 2023 (expected))_
 
 **BSc.** in Computer Science and Engineering<br>
