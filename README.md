@@ -98,6 +98,9 @@ Helpdesk software for messaging and social customer service.
 
 ## 👨‍🏫 Conferences and Summer Schools
 
+**2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics**<br>
+Mexico City, Mexico _(2024)_
+
 **Language Resources and Evaluation Conference (LREC)**<br>
 Marseille, France _(2022)_
 
