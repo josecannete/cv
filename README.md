@@ -54,6 +54,14 @@ Helpdesk software for messaging and social customer service.
 
 ## 📝 Publications
 
+2024
+:   **Speedy Gonzales: A Collection of Fast Task-Specific Models for Spanish** in *SEM 2024 @ NAACL, Mexico City, Mexico.
+:   **José Cañete**, Felipe Bravo-Marquez. [Paper](https://aclanthology.org/2024.starsem-1.14/), [Repo](https://github.com/dccuchile/speedy-gonzales).
+
+2023
+:   **Light and Fast Language Models for Spanish Through Compression Techniques** - Master's Thesis - Universidad de Chile
+:   **José Cañete**. [Thesis](https://repositorio.uchile.cl/handle/2250/196742), [Repo](https://github.com/dccuchile/speedy-gonzales).
+
 2022
 :   **Two-stage Conditional Chest X-ray Radiology Report Generation** in MedNeurIPS 2022, New Orleans, USA.
 :   Pablo Messina, **José Cañete**, Denis Parra, Alvaro Soto, Cecilia Besa, Jocelyn Dunstan. [Paper](http://www.cse.cuhk.edu.hk/~qdou/public/medneurips2022/64.pdf), [Repo](https://github.com/PabloMessina/MedVQA/).
